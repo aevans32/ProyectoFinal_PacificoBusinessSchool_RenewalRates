@@ -4,18 +4,22 @@ Este proyecto aplica **Machine Learning** para predecir la probabilidad de renov
 
 ---
 
+## :man_technologist: Autor
+
+**Andrés Evans**  
+Data & Technology Professional — Sector financiero / bancario
+
+GitHub: [@aevans32](https://github.com/aevans32)
+
+LinkedIn: [andresevans](https://www.linkedin.com/in/andresevans/)
+
+---
+
 ## :pushpin: Descripción del Proyecto
 
 El objetivo principal es **predecir la tasa de renovación (renewal rate)** de los clientes de una compañía de seguros, con el fin de diseñar estrategias de retención más efectivas y maximizar la rentabilidad.
 
 El dataset simula información de clientes, pólizas y comportamientos de renovación. A partir de este, se realizaron análisis exploratorios, ingeniería de variables y el entrenamiento de diferentes algoritmos de Machine Learning.
-
----
-
-## :man_technologist: Autor
-
-**Andrés Evans**  
-Data & Technology Professional — Sector financiero / bancario
 
 ---
 
@@ -59,32 +63,6 @@ Data & Technology Professional — Sector financiero / bancario
 
 ---
 
-## :mortar_board: Procedencia
-
-Proyecto desarrollado como parte del curso:  
-**Machine Learning para la Toma de Decisiones** — **Pacifico Business School (Universidad del Pacífico)**
-
----
-
-## :open_file_folder: Estructura del Proyecto
-
-```
-├── data/                 # Dataset (InsuranceCompany.csv)
-├── notebooks/            # Google Colab notebooks
-├── results/              # Gráficos y métricas
-├── README.md             # Este archivo
-```
-
----
-
-## :bookmark_tabs: Próximos Pasos
-
-- Implementar técnicas de **cross-validation** más robustas.  
-- Experimentar con **redes neuronales** como baseline comparativo.  
-- Simular **estrategias de incentivos personalizadas** y medir su impacto financiero.
-
----
-
 ## :scroll: Licencia
 
 Proyecto académico con fines de aprendizaje. No representa datos reales de ninguna compañía de seguros.
@@ -108,7 +86,11 @@ The dataset simulates customer information, policies, and renewal behavior. Base
 ## :man_technologist: Author
 
 **Andrés Evans**  
-Data & Technology Professional — Financial / Banking sector
+Data & Technology Professional — Financial / banking industry
+
+GitHub: [@aevans32](https://github.com/aevans32)
+
+LinkedIn: [andresevans](https://www.linkedin.com/in/andresevans/)
 
 ---
 
@@ -149,32 +131,6 @@ Data & Technology Professional — Financial / Banking sector
 - Identified critical variables that influence **policy renewal**.  
 - **Tree-based models (Random Forest / XGBoost)** showed stronger predictive performance compared to baseline logistic regression.  
 - Interpretability techniques (**SHAP, feature importance**) were applied to link results to **business decisions**.
-
----
-
-## :mortar_board: Origin
-
-Developed as part of the course:  
-**Machine Learning for Decision Making** — **Pacifico Business School (Universidad del Pacífico)**
-
----
-
-## :open_file_folder: Project Structure
-
-```
-├── data/                 # Dataset (InsuranceCompany.csv)
-├── notebooks/            # Google Colab notebooks
-├── results/              # Graphs and metrics
-├── README.md             # This file
-```
-
----
-
-## :bookmark_tabs: Next Steps
-
-- Implement more robust **cross-validation** techniques.  
-- Experiment with **neural networks** as a comparative baseline.  
-- Simulate **personalized incentive strategies** and measure their financial impact.
 
 ---
 
